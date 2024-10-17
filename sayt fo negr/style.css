@@ -1,0 +1,18 @@
+
+h1{
+display: flex;
+justify-content: center;
+align-items: center;
+
+color: blue;
+
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
